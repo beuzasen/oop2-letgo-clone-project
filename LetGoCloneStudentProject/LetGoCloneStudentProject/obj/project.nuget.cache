@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5T51wryn2dLnWVOhw7AeJeZW6IOSkw2IbPmbN2odY2QGRltuNBBO9DulwaPpJqlbWyPN6q3fwwXgS3NhRyABxw==",
+  "dgSpecHash": "HYV1mHryNy4LlnYHozNrWhV2OYOvQ0jnBNnIOB4yD3D9HOLBy3Mz3DTUEmT05aJWym6K99h7lOgdOgKXN14m4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
+  "projectFilePath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beyzanur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Beyzanur\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

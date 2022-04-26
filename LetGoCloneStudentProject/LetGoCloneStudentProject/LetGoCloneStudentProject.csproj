@@ -16,7 +16,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Pages\LoginPageEmail.xaml.cs">
+      <DependentUpon>LoginPageEmail.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Pages\LoginPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\LoginPageEmail.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\LoginPagePassword.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

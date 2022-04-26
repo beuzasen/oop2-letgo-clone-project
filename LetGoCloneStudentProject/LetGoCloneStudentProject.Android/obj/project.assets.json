@@ -3178,11 +3178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\LetGoCloneStudentProject.Android.csproj",
+      "projectUniqueName": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\LetGoCloneStudentProject.Android.csproj",
       "projectName": "LetGoCloneStudentProject.Android",
-      "projectPath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\LetGoCloneStudentProject.Android.csproj",
+      "projectPath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\LetGoCloneStudentProject.Android.csproj",
       "packagesPath": "C:\\Users\\Beyzanur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\obj\\",
+      "outputPath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3203,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {
-              "projectPath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj"
+            "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {
+              "projectPath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj"
             }
           }
         }

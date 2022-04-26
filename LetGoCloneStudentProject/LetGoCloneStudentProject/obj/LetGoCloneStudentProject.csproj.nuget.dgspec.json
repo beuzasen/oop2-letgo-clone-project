@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {}
+    "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {
+    "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
+        "projectUniqueName": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
         "projectName": "LetGoCloneStudentProject",
-        "projectPath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
+        "projectPath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject.csproj",
         "packagesPath": "C:\\Users\\Beyzanur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beyzanur\\source\\repos\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\obj\\",
+        "outputPath": "C:\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\LetGoCloneStudentProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
