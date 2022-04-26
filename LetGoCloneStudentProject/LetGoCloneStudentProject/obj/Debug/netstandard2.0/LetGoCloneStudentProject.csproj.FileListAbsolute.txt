@@ -1,0 +1,16 @@
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\bin\Debug\netstandard2.0\LetGoCloneStudentProject.deps.json
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\bin\Debug\netstandard2.0\LetGoCloneStudentProject.dll
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\bin\Debug\netstandard2.0\LetGoCloneStudentProject.pdb
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.csproj.AssemblyReference.cache
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.AssemblyInfoInputs.cache
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.AssemblyInfo.cs
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.dll
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\refint\LetGoCloneStudentProject.dll
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\LetGoCloneStudentProject.pdb
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\ref\LetGoCloneStudentProject.dll
+C:\Users\Beyzanur\source\repos\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs

@@ -10,7 +10,7 @@ namespace LetGoCloneStudentProject
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new LetGoCloneStudentProject.Pages.LoginPage();
         }
 
         protected override void OnStart()
