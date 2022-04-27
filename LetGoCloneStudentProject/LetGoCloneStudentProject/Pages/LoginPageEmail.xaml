@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="LetGoCloneStudentProject.Pages.Page1">
+             x:Class="LetGoCloneStudentProject.Pages.LoginPageEmail">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout> 
+            <Entry x:Name="Email"  Placeholder="Email"   VerticalOptions="Center" HorizontalOptions="Center" 
+                           PlaceholderColor="White" HeightRequest="40"   
+                           Keyboard="Email"  
+                           TextColor="Black" BackgroundColor="#ACACAC" />
+            <Button Text="Devam" TextColor="White"  
+                    FontAttributes="Bold" FontSize="Large" HorizontalOptions="CenterAndExpand"  VerticalOptions="End"
+                    BackgroundColor="#C5000F" CornerRadius="30"
+                    Clicked="Button_Clicked"
+                      />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

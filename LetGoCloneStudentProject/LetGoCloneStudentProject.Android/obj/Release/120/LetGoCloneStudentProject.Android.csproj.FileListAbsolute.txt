@@ -461,3 +461,4 @@ C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.An
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\stamp\_GenerateJavaStubs.stamp
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kamera.jpeg

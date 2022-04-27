@@ -89,7 +89,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\kamera.jpeg" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LetGoCloneStudentProject\LetGoCloneStudentProject.csproj">
       <Project>{D2981831-D15A-4BFE-A075-82AFAF214096}</Project>

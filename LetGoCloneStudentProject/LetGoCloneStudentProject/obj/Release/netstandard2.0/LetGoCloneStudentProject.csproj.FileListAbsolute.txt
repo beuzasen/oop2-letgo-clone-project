@@ -16,3 +16,4 @@ C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\ob
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Release\netstandard2.0\ref\LetGoCloneStudentProject.dll
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Release\netstandard2.0\Pages\LoginPageEmail.xaml.g.cs
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Release\netstandard2.0\Pages\LoginPagePassword.xaml.g.cs
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject\obj\Release\netstandard2.0\Pages\ads.xaml.g.cs

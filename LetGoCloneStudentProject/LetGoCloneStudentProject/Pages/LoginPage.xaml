@@ -4,13 +4,17 @@
              x:Class="LetGoCloneStudentProject.Pages.LoginPage"
              BackgroundColor="White">
     <ContentPage.Content>
-        <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+       
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
 
             <Image HorizontalOptions="StartAndExpand" WidthRequest="500" Source="logo.jpg"/>
             <Button Text="E-Posta ile devam et" TextColor="White"  
                     FontAttributes="Bold" FontSize="Large" HorizontalOptions="CenterAndExpand"  VerticalOptions="EndAndExpand"
-                    BackgroundColor="#C5000F" />
-            
+                    BackgroundColor="#C5000F"  CornerRadius="30"
+                    Clicked="Button_Clicked"/>
+
         </StackLayout>
+          
+   
     </ContentPage.Content>
 </ContentPage>  
