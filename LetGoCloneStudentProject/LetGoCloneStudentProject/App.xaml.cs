@@ -11,7 +11,7 @@ namespace LetGoCloneStudentProject
             InitializeComponent();
 
             //MainPage = new LetGoCloneStudentProject.Pages.LoginPage();
-            MainPage = new NavigationPage(new LetGoCloneStudentProject.Pages.LoginPageEmail());
+            MainPage = new NavigationPage(new LetGoCloneStudentProject.Pages.LoginPage());
         }
 
         protected override void OnStart()

@@ -35,7 +35,7 @@
 
 	/* 3: LetGoCloneStudentProject.dll */
 	/* uncompressed_file_size */
-	.word	19456
+	.word	24064
 	/* loaded */
 	.byte	0
 	/* data */

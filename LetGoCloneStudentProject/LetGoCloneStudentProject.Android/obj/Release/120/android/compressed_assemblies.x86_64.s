@@ -34,7 +34,7 @@
 
 	/* 3: LetGoCloneStudentProject.dll */
 	/* uncompressed_file_size */
-	.long	19456
+	.long	24064
 	/* loaded */
 	.byte	0
 	/* data */

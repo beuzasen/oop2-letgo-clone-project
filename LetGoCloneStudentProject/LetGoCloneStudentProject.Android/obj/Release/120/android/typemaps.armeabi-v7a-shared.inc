@@ -103,20 +103,20 @@
 	.section	.rodata.map_aname.17,"aMS",%progbits,1
 	.type	.L.map_aname.17, %object
 .L.map_aname.17:
-	.asciz	"LetGoCloneStudentProject.Android"
-	.size	.L.map_aname.17, 33
+	.asciz	"Xamarin.AndroidX.AppCompat"
+	.size	.L.map_aname.17, 27
 
 	.section	.rodata.map_aname.18,"aMS",%progbits,1
 	.type	.L.map_aname.18, %object
 .L.map_aname.18:
-	.asciz	"Xamarin.AndroidX.AppCompat"
-	.size	.L.map_aname.18, 27
+	.asciz	"FormsViewGroup"
+	.size	.L.map_aname.18, 15
 
 	.section	.rodata.map_aname.19,"aMS",%progbits,1
 	.type	.L.map_aname.19, %object
 .L.map_aname.19:
-	.asciz	"FormsViewGroup"
-	.size	.L.map_aname.19, 15
+	.asciz	"LetGoCloneStudentProject.Android"
+	.size	.L.map_aname.19, 33
 
 	.section	.rodata.map_aname.20,"aMS",%progbits,1
 	.type	.L.map_aname.20, %object
