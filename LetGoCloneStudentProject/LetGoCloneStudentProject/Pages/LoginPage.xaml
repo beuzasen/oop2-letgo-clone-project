@@ -10,7 +10,7 @@
             <Image HorizontalOptions="StartAndExpand" WidthRequest="500" Source="logo.jpg"/>
             <Button Text="E-Posta ile devam et" TextColor="White"  
                     FontAttributes="Bold" FontSize="Large" HorizontalOptions="CenterAndExpand"  VerticalOptions="EndAndExpand"
-                    BackgroundColor="#C5000F"  CornerRadius="30"
+                    BackgroundColor="#fa3d54"  CornerRadius="30"
                     Clicked="Button_Clicked"/>
 
         </StackLayout>
