@@ -3,35 +3,144 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LetGoCloneStudentProject.Pages.ads">
     <ContentPage.Content>
+        <ScrollView HeightRequest="3000">
+            
+       
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
-                <RowDefinition Height="*"></RowDefinition>
-                <RowDefinition Height="2*"></RowDefinition>
-                <RowDefinition Height="2*"></RowDefinition>
-                <RowDefinition Height="2*"></RowDefinition>
-                <RowDefinition Height="2*"></RowDefinition>
-            </Grid.RowDefinitions>
-            <StackLayout Grid.Row="0" Grid.ColumnSpan="2">
-                <SearchBar Placeholder="Ara" 
-           CancelButtonColor="#FF676767"
-           PlaceholderColor="#FF676767"
-           TextColor="#FF676767"
-           TextTransform="Lowercase"
-           HorizontalTextAlignment="Center"
-           FontSize="Medium"
-           FontAttributes="Italic" /> 
-                         
-                </StackLayout>
-            <Image Grid.Row="1" Grid.Column="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Source="kamera.jpg"/>
-                         
-                         
-                        
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+                <RowDefinition Height="200"></RowDefinition>
+
+           </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Grid.ColumnSpan="2" BackgroundColor="White">
+                   <!--arama ve filtre için ayrı gridler-->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*"></ColumnDefinition>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <SearchBar Placeholder="Ara" 
+                        CancelButtonColor="#FF676767"
+                        PlaceholderColor="#FF676767"
+                        TextColor="#FF676767"
+                        TextTransform="Lowercase"
+                        HorizontalOptions="StartAndExpand"
+                        VerticalOptions="Start"
+                        HorizontalTextAlignment="Center"
+                        FontSize="18"
+                         FontAttributes="Italic" 
+                                   BackgroundColor="#f5f5f5"
+                                   WidthRequest="400"
+                         />
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Button Text="Filtrele" BackgroundColor="White" TextColor="#fa3d54" 
+                                FontAttributes="Bold" FontSize="18" VerticalOptions="Start" HorizontalOptions="End"
+                                WidthRequest="150"/>
+                    </Grid>
 
 
-        </Grid>
+                </Grid>
+                
+
+               
+                     
+                
+                <Frame  Grid.Row="1" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kamera.jpg" Aspect="AspectFill"/>
+                </Frame>
+
+                <Frame  Grid.Row="1" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="arab.jpg" Aspect="AspectFill"/>
+                </Frame>
+                
+                 <Frame  Grid.Row="2" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kablo.jpg" Aspect="AspectFill"/>
+                </Frame>
+
+                <Frame  Grid.Row="2" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="masa.jpg" Aspect="AspectFill"/>
+
+                </Frame>
+                <Frame Grid.Row="3" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kasa.jpg" Aspect="AspectFill"/>
+
+                </Frame>
+                <Frame  Grid.Row="3" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="araba.jpg" Aspect="AspectFill"/>
+
+                </Frame>
+                <Frame  Grid.Row="4" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kol.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame  Grid.Row="4" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="bisiklet.jpg" Aspect="AspectFill"/>
+                </Frame>
+
+                <Frame  Grid.Row="5" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kosub.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame  Grid.Row="5" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="buzdolabi.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame  Grid.Row="6" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="kurutma.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame  Grid.Row="6" Grid.Column="1" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="piano.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame Grid.Row="7" Grid.Column="0" CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="mamas.jpg" Aspect="AspectFill"/>
+                </Frame>
+                <Frame Grid.Row="7" Grid.Column="1"  CornerRadius="15" 
+              Padding="0"
+                IsClippedToBounds="True">
+                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="oyunc.jpg" Aspect="AspectFill"/>
+                </Frame>
+
+
+
+
+
+
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

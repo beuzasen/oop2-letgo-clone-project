@@ -37,7 +37,7 @@
                
                 </Grid>
             <Grid Grid.Row="4" Margin="20,50,20,20">
-                <Button Text="Giriş Yap" TextColor="White" FontSize="20" BackgroundColor="#fa3d54" CornerRadius="100" 
+                <Button Text="Giriş Yap" TextColor="White" FontSize="20" BackgroundColor="#fa3d54" FontAttributes="Bold" CornerRadius="100" 
                          Clicked="Button_Clicked"></Button>
             </Grid> 
            

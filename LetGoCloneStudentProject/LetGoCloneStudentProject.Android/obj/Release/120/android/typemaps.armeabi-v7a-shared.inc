@@ -43,14 +43,14 @@
 	.section	.rodata.map_aname.7,"aMS",%progbits,1
 	.type	.L.map_aname.7, %object
 .L.map_aname.7:
-	.asciz	"Xamarin.AndroidX.Activity"
-	.size	.L.map_aname.7, 26
+	.asciz	"LetGoCloneStudentProject.Android"
+	.size	.L.map_aname.7, 33
 
 	.section	.rodata.map_aname.8,"aMS",%progbits,1
 	.type	.L.map_aname.8, %object
 .L.map_aname.8:
-	.asciz	"LetGoCloneStudentProject.Android"
-	.size	.L.map_aname.8, 33
+	.asciz	"Xamarin.AndroidX.Activity"
+	.size	.L.map_aname.8, 26
 
 	.section	.rodata.map_aname.9,"aMS",%progbits,1
 	.type	.L.map_aname.9, %object

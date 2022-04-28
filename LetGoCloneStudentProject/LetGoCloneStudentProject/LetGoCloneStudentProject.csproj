@@ -16,13 +16,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Pages\MainLetgoPage.xaml.cs">
-      <DependentUpon>MainLetgoPage.xaml</DependentUpon>
+    <Compile Update="Pages\ads.xaml.cs">
+      <DependentUpon>ads.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Pages\MainLetgoPage.xaml">
+    <EmbeddedResource Update="Pages\ads.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Pages\LoginPage.xaml">

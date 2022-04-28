@@ -26,7 +26,7 @@
 
 	/* 2: LetGoCloneStudentProject.Android.dll */
 	/* uncompressed_file_size */
-	.word	442368
+	.word	442880
 	/* loaded */
 	.byte	0
 	/* data */
@@ -35,7 +35,7 @@
 
 	/* 3: LetGoCloneStudentProject.dll */
 	/* uncompressed_file_size */
-	.word	20992
+	.word	27136
 	/* loaded */
 	.byte	0
 	/* data */

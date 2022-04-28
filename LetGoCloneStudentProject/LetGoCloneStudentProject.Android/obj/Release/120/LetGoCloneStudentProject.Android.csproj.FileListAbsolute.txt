@@ -462,3 +462,16 @@ C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.An
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kamera.jpeg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\arab.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kablo.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kasa.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kol.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kurutma.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\mamas.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\masa.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\kosub.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\araba.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\bisiklet.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\buzdolabi.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\oyunc.jpg
+C:\LetGoCloneStudentProject\LetGoCloneStudentProject\LetGoCloneStudentProject.Android\obj\Release\120\res\drawable\piano.jpg
